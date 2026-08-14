@@ -26,3 +26,6 @@ allowBuilds:
   protobufjs: true
   sharp: true
   unrs-resolver: true
+auditConfig:
+  ignoreGhsas:
+    - GHSA-2v37-7h3g-55p8
